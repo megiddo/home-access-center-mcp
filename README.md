@@ -97,3 +97,10 @@ This project was built autonomously with Antigravity.
 | Math 7 | Choice Board 5:4 | 03/27/2026 | 0.0 |
 | Band MS 2 | Week 5-7 Assignment | 04/16/2026 | |
 ```
+
+## Past Due / Missing Assignments
+| Course | Assignment | Due Date | Score |
+|---|---|---|---|
+| Science 7 | Lesson 13 Chart | 04/09/2026 | |
+| Math 7 | Choice Board 5:4 | 03/27/2026 | 0.0 |
+| Band MS 2 | Week 5-7 Assignment | 04/16/2026 | |

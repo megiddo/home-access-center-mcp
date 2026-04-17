@@ -1,0 +1,17 @@
+{
+  "district_parser": "leander_isd",
+  "logins": {
+    "parent1": {
+      "username": "billys_parent_username",
+      "password": "billys_parent_password"
+    },
+    "parent2": {
+      "username": "susys_parent_username",
+      "password": "susys_parent_password"
+    }
+  },
+  "students": {
+    "billy": "parent1",
+    "susy": "parent2"
+  }
+}

@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE and OS files
+.DS_Store
+.vscode/
+.idea/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# App-specific overrides
+.env
+cache/
+*.sqlite
+hac_config.json
+hac_client.egg-info/
